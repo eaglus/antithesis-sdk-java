@@ -21,3 +21,7 @@ should work.
     antithesis-ffi 1.3.1 (or above)
     jackson 2.2.3 (or above)
 
+### Install in containers
+
+- Copy libvoidstar.so from /antithesis-sdk/dist into /usr/lib/libvoidstar.so
+- Use antithesis-sdk-*.jar and antithesis-ffi-*.jar from /antithesis-sdk/dist
